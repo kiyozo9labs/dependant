@@ -1,0 +1,1 @@
+select *, 200 as C2 from {{ ref('piyo') }}
